@@ -1,0 +1,47 @@
+{
+  "name": "hakuna-maubra---planpal",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000H\u0000a\u0000k\u0000u\u0000n\u0000a\u0000-\u0000M\u0000a\u0000u\u0000b\u0000r\u0000a\u0000-\u0000-\u0000-\u0000P\u0000l\u0000a\u0000n\u0000P\u0000a\u0000l\u0000\r\u0000 \u0000",
+  "homepage": "https://github.com/justinedsasa/Hakuna-Maubra---PlanPal#readme",
+  "bugs": {
+    "url": "https://github.com/justinedsasa/Hakuna-Maubra---PlanPal/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinedsasa/Hakuna-Maubra---PlanPal.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@types/jsonwebtoken": "^9.0.10",
+    "acorn": "^8.15.0",
+    "acorn-walk": "^8.3.4",
+    "arg": "^4.1.3",
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.5",
+    "create-require": "^1.1.1",
+    "diff": "^4.0.2",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "make-error": "^1.3.6",
+    "undici-types": "^7.16.0",
+    "v8-compile-cache-lib": "^3.0.1",
+    "yn": "^3.1.1"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^6.0.0",
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.5",
+    "@types/node": "^24.10.0",
+    "nodemon": "^3.1.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "keywords": []
+}
